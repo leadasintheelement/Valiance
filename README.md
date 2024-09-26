@@ -1,5 +1,4 @@
-![Valiance](https://github.com/user-attachments/assets/6844fc7a-381a-46d6-acef-646bbe3d4b59)
-
+![Valiance](https://github.com/user-attachments/assets/5316e8c4-8cf0-4f43-9661-4d0a317e6ded)
 
 Valiance is an in-depth revamp of Minecraft's combat done by adding to the variety of gear builds players can make, spicing up dull areas with new and interesting monsters, and adding new mechanics to encourage fighting in new and interesting ways and places.
 

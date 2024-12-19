@@ -3,7 +3,7 @@
 Valiance is an in-depth revamp of Minecraft's combat done by adding to the variety of gear builds players can make, spicing up dull areas with new and interesting monsters, and adding new mechanics to encourage fighting in new and interesting ways and places.
 
  As of now, Valiance contains:
-- 6 distinct weapons, each of which bring a completely unique playstyle like no other
+- 8 distinct weapons, each of which bring a completely unique playstyle like no other
 - 5 new hostile monsters found all over the world, bringing new challenges to everyday combat
 - 4 new enchantments to customize your arsenal further than ever before
 - A complete rebalance of shields, including new copper and armadillo scute shields
